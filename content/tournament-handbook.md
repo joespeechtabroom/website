@@ -108,7 +108,7 @@ The rules and procedures set forth in this Handbook are meant to supplement the 
 
    1. During the elimination rounds, the winner will always maintain or adopt low seed numbers.
 
-   1. Judges from schools with debaters or teams in the Semi-Final rounds shall not judge in the rounds of the level or type of debate in which their debaters or teams are still competing. 
+   1. If there is sufficient judging, judges from schools with debaters or teams in the Semi-Final rounds shall have lower preference to not judge in the rounds of the level or type of debate in which their debaters or teams are still competing. 
 
    1. Once the seeding is determined, it shall not be changed, even if this should mean that debaters from the same school must meet.
 
